@@ -1,0 +1,9 @@
+[submodule "firebase-tools"]
+	path = firebase-tools
+	url = https://github.com/crasm/aur-firebase-tools
+[submodule "lily-git"]
+	path = lily-git
+	url = https://github.com/crasm/aur-lily-git
+[submodule "openvpn-reconnect"]
+	path = openvpn-reconnect
+	url = https://github.com/crasm/aur-openvpn-reconnect
